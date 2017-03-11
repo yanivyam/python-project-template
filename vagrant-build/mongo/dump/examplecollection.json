@@ -1,0 +1,2 @@
+{ "_id" : { "$oid" : "5650a0d5503b27a1cd6bfbd2" }, "name" : "document1" }
+{ "_id" : { "$oid" : "5650a197503b27a1cd6bfbd3" }, "name" : "document2" }

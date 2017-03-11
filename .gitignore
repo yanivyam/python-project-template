@@ -1,0 +1,24 @@
+# Ignore Python byte code files
+*.pyc
+*.pyo
+
+# Python build directory
+/target/
+
+# Ignore Mac's metadata files
+.DS_Store
+
+# Virtualenv
+venv
+
+# Vagrant temp data
+.vagrant
+
+
+# Sphinx
+_build
+
+# Ignore PyCharm's files
+.idea
+!.idea/python-project-template.iml
+!.idea/modules.xml

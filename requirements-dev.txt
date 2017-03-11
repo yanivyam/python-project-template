@@ -1,0 +1,7 @@
+# Put the required Python modules for developmenet
+# to install run:
+# pip install -r requirements-dev.txt
+
+pylint
+nose
+sphinx
